@@ -33,7 +33,7 @@ A modular microcontroller interface combining proximity sensing and rotary input
 - Pin definitions aligned with schematic
 
 ## 🎨 Schematic
-![ESP8266 VL53L0X and KY-040 Wiring Diagram](schematic_annotated.png)
+![ESP8266 VL53L0X and KY-040 Wiring Diagram](ESP8266%20VL53L0X%20and%20KY-040.kicad_sch.png)
 
 ## 🛠️ Builder Notes
 - Ensure VL53L0X operates at 3.3V
