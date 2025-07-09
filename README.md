@@ -42,4 +42,4 @@ A modular microcontroller interface combining proximity sensing and rotary input
 
 ## 📄 Attribution
 Design by Professor Damian Williamson Grad.  
-Schematic and firmware scaffolding by [Willtech](https://github.com/Willtech/Sensor_VL53L0X)
+Schematic and firmware scaffolding by [Willtech](https://www.willtech.com.au/shop/contact-us)
